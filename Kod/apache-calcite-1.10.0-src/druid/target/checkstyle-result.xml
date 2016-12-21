@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidConnection.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidConnectionImpl.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidDateTimeUtils.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidQuery.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidResultEnumerator.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidRules.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidSchema.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidSchemaFactory.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidTable.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\DruidTableFactory.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\main\java\org\apache\calcite\adapter\druid\QueryType.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\test\java\org\apache\calcite\test\DruidAdapterIT.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\druid\src\test\java\org\apache\calcite\test\DruidDateRangeRulesTest.java">
+</file>
+</checkstyle>

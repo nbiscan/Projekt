@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\search\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\search\SearchResultListener.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\search\SplunkConnection.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\search\SplunkConnectionImpl.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\SplunkDriver.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\SplunkDriverVersion.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\SplunkPushDownRule.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\SplunkQuery.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\SplunkSchema.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\SplunkTable.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\SplunkTableScan.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\util\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\main\java\org\apache\calcite\adapter\splunk\util\StringUtils.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\splunk\src\test\java\org\apache\calcite\test\SplunkAdapterTest.java">
+</file>
+</checkstyle>

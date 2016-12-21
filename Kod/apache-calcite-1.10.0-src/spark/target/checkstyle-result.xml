@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\EnumerableToSparkConverter.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\EnumerableToSparkConverterRule.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\HttpServer.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\JdbcToSparkConverter.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\JdbcToSparkConverterRule.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\SparkHandlerImpl.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\SparkMethod.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\SparkRel.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\SparkRules.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\SparkRuntime.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\main\java\org\apache\calcite\adapter\spark\SparkToEnumerableConverter.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\spark\src\test\java\org\apache\calcite\test\SparkAdapterTest.java">
+</file>
+</checkstyle>

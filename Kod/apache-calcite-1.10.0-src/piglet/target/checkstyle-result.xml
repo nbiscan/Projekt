@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\piglet\src\main\java\org\apache\calcite\piglet\Ast.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\piglet\src\main\java\org\apache\calcite\piglet\Handler.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\piglet\src\main\java\org\apache\calcite\piglet\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\piglet\src\test\java\org\apache\calcite\test\CalciteHandler.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\piglet\src\test\java\org\apache\calcite\test\Fluent.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\piglet\src\test\java\org\apache\calcite\test\PigletTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,4 @@
+DEPTNO:int,NAME:string,DATUM:date
+10,"Sales",10.10.12
+20,"Marketing",10.10.12
+30,"Accounts",10.10.12

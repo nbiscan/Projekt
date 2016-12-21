@@ -1,0 +1,14 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/apache/calcite/benchmarks/ParserBenchmark.parseCached
+inline,org/apache/calcite/benchmarks/ParserBenchmark.parseNonCached
+inline,org/apache/calcite/benchmarks/ParserBenchmark.setup
+inline,org/apache/calcite/benchmarks/StatementTest$HrConnection.pickEmployee
+inline,org/apache/calcite/benchmarks/StatementTest.bindExecute
+inline,org/apache/calcite/benchmarks/StatementTest.executeQuery
+inline,org/apache/calcite/benchmarks/StatementTest.forEach
+inline,org/apache/calcite/benchmarks/StatementTest.prepareBindExecute
+inline,org/openjdk/jmh/infra/Blackhole.clearSinks

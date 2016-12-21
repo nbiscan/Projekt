@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\main\java\org\apache\calcite\adapter\tpcds\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\main\java\org\apache\calcite\adapter\tpcds\TpcdsSchema.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\main\java\org\apache\calcite\adapter\tpcds\TpcdsSchemaFactory.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\main\java\org\apache\calcite\adapter\tpch\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\main\java\org\apache\calcite\adapter\tpch\TpchSchema.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\main\java\org\apache\calcite\adapter\tpch\TpchSchemaFactory.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\test\java\org\apache\calcite\adapter\tpcds\TpcdsTest.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\test\java\org\apache\calcite\adapter\tpch\TpchTest.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\plus\src\test\java\org\apache\calcite\test\PlusSuite.java">
+</file>
+</checkstyle>

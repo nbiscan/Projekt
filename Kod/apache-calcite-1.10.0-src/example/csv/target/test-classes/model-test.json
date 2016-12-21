@@ -1,0 +1,16 @@
+{
+  version: '1.0',
+  defaultSchema: 'TEST',
+  schemas: [
+    {
+      name: 'TEST',
+      type: 'custom',
+      factory: 'org.apache.calcite.adapter.csv.CsvSchemaFactory',
+      operand: {
+        directory: 'test'
+      }
+    }
+  ]
+}
+
+

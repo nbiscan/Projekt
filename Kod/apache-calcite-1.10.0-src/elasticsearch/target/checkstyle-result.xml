@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchEnumerator.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchFilter.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchMethod.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchProject.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchRel.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchRules.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchSchema.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchSchemaFactory.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchSort.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchTable.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchTableScan.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchToEnumerableConverter.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\ElasticsearchToEnumerableConverterRule.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\main\java\org\apache\calcite\adapter\elasticsearch\package-info.java">
+</file>
+<file name="C:\Users\DELL.DELL-PC\Desktop\Projekt\Kod\apache-calcite-1.10.0-src\elasticsearch\src\test\java\org\apache\calcite\test\ElasticsearchAdapterIT.java">
+</file>
+</checkstyle>

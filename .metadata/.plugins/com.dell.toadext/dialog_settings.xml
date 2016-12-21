@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.dell.toadext.schemabrowser.actions.DisplayDescribeObjectEditorAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.schemabrowser.actions.LinkWithEditorAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.connection.monitor.DbmsOutputView">
+		<section name="saveToFile">
+		</section>
+	</section>
+	<section name="com.dell.toadext.connection.actions.LinkWithEditorAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.plsqlviewer.pldoc.QuickDocView$LinkWithSelectionAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.connection.monitor.AbstractConnectionMonitorView$EnableAction">
+		<item value="true" key="active"/>
+	</section>
+	<section name="com.dell.toadext.connection.monitor.AbstractConnectionMonitorView$LockAction">
+		<item value="false" key="active"/>
+	</section>
+	<section name="com.dell.toadext.connection.view.handlers.GroupByDbHandler">
+	</section>
+</section>
